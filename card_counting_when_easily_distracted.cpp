@@ -6,11 +6,6 @@
 #include <cmath>
 using namespace std;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
-
 bool is_string_of_cards(string string_to_check)
 {
     string cards[13] = {"A", "2", "3", "4", "5", "6", "7", "8", "9", "T", "J", "Q", "K"};
